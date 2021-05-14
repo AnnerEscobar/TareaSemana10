@@ -90,9 +90,6 @@ namespace P1Acrud.Clases.BaseDatos
 
         }
 
-
-
-
         /// <summary>
         /// ejecuta instrucciones SQL, pero el progromador debe manejar la apertura y clausura
         /// de las conexiones.

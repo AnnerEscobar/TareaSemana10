@@ -43,7 +43,6 @@ namespace P1Acrud
 
         protected void SubirInformacion_Click(object sender, EventArgs e)
         {
-
                 CargarArchivoExterno();
         }
     }
